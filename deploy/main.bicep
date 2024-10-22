@@ -3,7 +3,7 @@
 param location string = 'centralindia'
 
 @description('Subscription ID for subcription scope resources')
-param subID string = 'dc338097-850c-4d63-bbdc-82f68756831b'
+param subID string = '32905001-71ad-45f2-b38b-ec3b493939cc'
 
 
 // Resource Declarations
